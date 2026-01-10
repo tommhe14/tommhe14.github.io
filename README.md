@@ -6,6 +6,6 @@ And be sure to check out his merged playist of even more channels http://drewliv
 
 10/01/2026:
 
-DaddyLive Schedule current unatainable, Hopefully I can get that data in the future.
+DaddyLive Schedule currently unatainable, Hopefully I can get that data in the future.
 
 Please download the latest ZIP 3.0.1, make sure you are installing this when daddylive isn't already installed, and you have done a clean re-start of KODI, this may include clearing your kodi cache but my testing differs on these results.
