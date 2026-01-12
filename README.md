@@ -11,9 +11,8 @@ Daddylive live sports schedule is back.
 Follow the usual installation (once daddylive addon is already un-installed):
 
 File Manager -> Add Source -> https://tommhe14.github.io
-Install from ZIP -> (plugin.video.daddylive.3.0.2.zip)
 
-https://github.com/tommhe14/tommhe14.github.io
+Install from ZIP -> (plugin.video.daddylive.3.0.2.zip)
 
 Please note;
 
