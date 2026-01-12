@@ -19,7 +19,7 @@ Please note;
 
 - due to my moral interest I have decided to block adult channels and VODS.
 
-- I am not the provider of the channels, merely the technical messenger for the community, All credit goes to DrewLive for fixing the channels (discord linked on my github repo)
+- I am not the provider of the channels, merely the technical messenger for the community, All credit goes to DrewLive for fixing the channels.
 
 - This will not be perfect, although I do offer a eternal money back guarantee! (lol)
 
