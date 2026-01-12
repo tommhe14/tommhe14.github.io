@@ -6,7 +6,7 @@ And be sure to check out his merged playist of even more channels http://drewliv
 
 12/01/2026:
 
-Daddylive live sports schedule os back.
+Daddylive live sports schedule is back.
 
 Follow the usual installation (once daddylive addon is already un-installed):
 
