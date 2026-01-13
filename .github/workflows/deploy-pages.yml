@@ -1,0 +1,26 @@
+name: Deploy Pages
+
+# Run this workflow on push to main
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Deploy to GitHub Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./   # root of repo or folder containing site files
+
+      - name: Deploy
+        uses: actions/deploy-pages@v1
