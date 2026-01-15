@@ -8,7 +8,7 @@ ManeFlix (Films and Tv Shows)
 
 ManeFlix Wesbite: https://maneflix-production.up.railway.app
 
-For full un-restrictions and trakt implementation consider paying a one off fee of £5 for a private api token. Payments are securwly taken via Stripe.
+For full un-restrictions and trakt implementation consider paying a one off fee of £5 for a private api token. Payments are securely taken via Stripe.
 
 Once you have received the API token go to Add-ons -> my Add-Ons -> Video Add-ons -> ManeFlix -> Configure -> Apply to "Paid API Key"
 
