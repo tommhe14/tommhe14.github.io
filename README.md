@@ -7,6 +7,28 @@
 
 ---
 
+## 🚀 **Quick Installation Guide**
+
+### **Step 1: Add Repository Source**
+1. Open **Kodi**
+2. Go to **Settings** ⚙️ (gear icon)
+3. Select **File Manager**
+4. Click **"Add Source"**
+5. Enter this URL: `https://tommhe14.github.io`
+6. Name it: `ManeFlix Repo` (or any name you prefer)
+7. Click **OK**
+
+### **Step 2: Install from Repository**
+1. Go back to **Home Screen**
+2. Select **Add-ons** 📦
+3. Click the **Package Installer** icon (top-left, looks like a box)
+4. Choose **"Install from zip file"**
+5. Select **"plugin.video.repo.x.x.x.zip"**
+
+**Done!** You can now find ManeFlix in your Video Add-ons section.
+
+---
+
 ## 📺 **Stable Addons**
 | Addon | Content | Status |
 |-------|---------|--------|
@@ -113,7 +135,7 @@ Unlock enhanced metadata and integration features:
 
 ---
 
-## 🔧 **Installation & Setup**
+## 🔧 **API Key Setup (After Installation)**
 
 ### **1. Apply Your API Key**
 Once you receive your API token:
@@ -156,11 +178,19 @@ Successfully activated when you see:
 - Only complete reinstallations require re-entry
 - We recommend saving your key for future reference
 
+### **Troubleshooting**
+🔧 **Common Issues:**
+- **Addon not installing?** Check internet connection, try adding source again
+- **API key not working?** Ensure exact copy, restart Kodi
+- **No streams found?** Try different title, check network connection
+- **Trakt not linking?** Make sure API key is applied and Kodi restarted
+
 ---
 
 ## 📞 **Support**
 
-- **Issues:** Check our [GitHub Issues](https://github.com/yourusername/maneflix/issues)
+- **Installation Issues:** Review the guide above carefully
+- **Technical Issues:** Check our [GitHub Issues](https://github.com/tommhe14/maneflix/issues)
 - **Updates:** Watch this repository for announcements
 - **Payment Issues:** Contact via Stripe receipt email
 
