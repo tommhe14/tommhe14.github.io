@@ -7,6 +7,18 @@
 
 ---
 
+## ✨ **New Features Spotlight (v1.0.5+)**
+From version **1.0.5**, ManeFlix now automatically updates metadata and features! Highlights include:
+
+- 🎯 **"Your Next Watch"** - Smart recommendations based on your viewing history
+- 🔍 **Similar Movies & Shows** - Discover content you’ll love
+- ⭐ **Letterboxd Favourites** - Import and view your favourite movies
+- 🎬 **Trailers** - Watch official previews before streaming
+- 🏆 **Better Quality Links** - Preference for HD/Full HD streams
+- 🔄 **Auto Updates** - Keep your metadata and features fresh without manual updates
+
+---
+
 ## 🚀 **Quick Installation Guide**
 
 ### **Step 1: Add Repository Source**
@@ -25,7 +37,8 @@
 4. Choose **"Install from zip file"**
 5. Select **"plugin.video.repo.x.x.x.zip"**
 
-**Done!** You can now find ManeFlix in your Video Add-ons section.
+**Done!** You can now find ManeFlix in your Video Add-ons section.  
+**Note:** From version 1.0.5, ManeFlix will auto-update, so you don’t need to reinstall for new features.
 
 ---
 
@@ -47,6 +60,9 @@
 - ✅ **Streaming Link Aggregation** (collects links from various sources)
 - ✅ **User Interface** (browsing and search functionality)
 - ✅ **Trakt Integration** (watchlist and history management)
+- ✅ **Letterboxd Favourites** - Import and view your favourite movies
+- ✅ **Trailers** - Watch official trailers before streaming
+- ✅ **Better Quality Links** - Preference for HD/Full HD streams
 
 **What ManeFlix Does NOT Do:**
 - ❌ **Host Content** - We do not have servers with copyrighted material
@@ -60,7 +76,7 @@
 - Complying with local copyright laws
 - Using content for personal use only
 
-**Stream Sources:**
+**Stream Sources:**  
 ManeFlix aggregates streaming links from various third-party sources. The availability and legality of these links may vary by:
 - Your geographical location
 - Local copyright laws
@@ -80,8 +96,12 @@ ManeFlix aggregates streaming links from various third-party sources. The availa
 ✔️ **Metadata Provider** - Movie/TV show information and organization  
 ✔️ **Link Aggregator** - Collects streaming links from various sources  
 ✔️ **User Interface** - Beautiful Kodi interface for browsing content  
-✔️ **Trakt Integration** - Sync with your Trakt account  
+✔️ **Trakt & Letterboxd Integration** - Sync your watchlists and favourites  
 ✔️ **Built-in Subtitles** - Automatic subtitle matching  
+✔️ **Smart Recommendations** - Discover “Your Next Watch”  
+✔️ **Similar Movies/Shows** - Find content you’re likely to enjoy  
+✔️ **Trailers** - Watch trailers before streaming  
+✔️ **Better Quality** - Prioritized HD streams when available  
 
 ---
 
@@ -89,8 +109,8 @@ ManeFlix aggregates streaming links from various third-party sources. The availa
 
 Unlock enhanced metadata and integration features:
 
-### 🔗 **Trakt Integration**
-- **Sync Watchlist** - Access your Trakt watchlist directly in Kodi
+### 🔗 **Trakt & Letterboxd Integration**
+- **Sync Watchlist & Favourites** - Access your Trakt and Letterboxd lists directly in Kodi
 - **Auto-Remove Watched** - Items automatically removed from watchlist after viewing
 - **Watch History Sync** - Track everything you watch
 - **Trakt Scrobbling** - Automatically mark items as watched
@@ -98,8 +118,9 @@ Unlock enhanced metadata and integration features:
 ### 🎯 **Enhanced Metadata Features**
 - **"Your Next Watch"** - Smart recommendations based on your viewing history
 - **Similar Content** - Discover movies/shows similar to what you like
-- **Actor Search** - Find all films/shows by your favorite actors
-- **Rich Metadata** - Detailed movie/TV show information
+- **Actor Search** - Find all films/shows by your favourite actors
+- **Trailers** - Watch official previews before you play content
+- **Better Quality Streams** - Preference for HD/Full HD links
 
 ### ⚡ **Performance Features**
 - Faster metadata loading
@@ -119,19 +140,12 @@ Unlock enhanced metadata and integration features:
 - **No recurring charges** - Pay once, use forever
 - **No hidden fees**
 
-### **What You're Paying For:**
-> 💡 **£5 for enhanced metadata and Trakt integration**  
-> • **Trakt API Access** - Value: £3/month elsewhere  
-> • **Enhanced Metadata** - Value: £2/month elsewhere  
-> • **Priority Support** - Priceless  
-> • **Total Value:** £60/year, **Your Cost:** £5 once!
-
 ### **Value Comparison:**
-> 💡 **£5 for all the content you could ever want?**  
+> 💡 **Why ManeFlix is a steal:**  
 > • Netflix: £10.99/month  
-> • DVD Rental: £3-£5 per movie  
+> • DVD Rental: £3–£5 per movie  
 > • Real-Debrid: €3/month  
-> • **ManeFlix: £5 once!**
+> • **ManeFlix: £5 once!**  
 
 ---
 
@@ -146,14 +160,14 @@ Once you receive your API token:
 
 ### **2. Verify Activation**
 Successfully activated when you see:
-- ✅ **"Link Trakt"** option in main menu
+- ✅ **"Link Trakt" / "Link Letterboxd"** options in main menu
 - ✅ **"Your Next Watch"** recommendations
 - ✅ Enhanced metadata features
 
-### **3. Link Trakt Account**
-1. Select **"Link Trakt Account"** from main menu
+### **3. Link Accounts**
+1. Select **"Link Trakt/Letterboxd Account"** from main menu
 2. Follow on-screen instructions to authorize
-3. Your watchlist will automatically appear
+3. Your watchlist/favourites will automatically appear
 
 ---
 
@@ -183,7 +197,7 @@ Successfully activated when you see:
 - **Addon not installing?** Check internet connection, try adding source again
 - **API key not working?** Ensure exact copy, restart Kodi
 - **No streams found?** Try different title, check network connection
-- **Trakt not linking?** Make sure API key is applied and Kodi restarted
+- **Trakt/Letterboxd not linking?** Make sure API key is applied and Kodi restarted
 
 ---
 
