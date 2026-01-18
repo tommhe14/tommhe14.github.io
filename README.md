@@ -14,7 +14,7 @@
 2. Go to **Settings** ⚙️ (gear icon)
 3. Select **File Manager**
 4. Click **"Add Source"**
-5. Enter this URL: `https://tommhe14.github.io`
+5. Enter this URL: https://tommhe14.github.io
 6. Name it: `ManeFlix Repo` (or any name you prefer)
 7. Click **OK**
 
