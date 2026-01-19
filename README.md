@@ -45,7 +45,6 @@ From version **1.0.5**, ManeFlix now automatically updates metadata and features
 ## 📺 **Stable Addons**
 | Addon | Content | Status |
 |-------|---------|--------|
-| **Daddylive** | Live TV, Sports & some VODs | ✅ Stable |
 | **ManeFlix** | Films & TV Shows | ✅ Stable |
 
 ---
